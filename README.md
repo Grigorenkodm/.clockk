@@ -1,1 +1,1 @@
-# .clockk
+# clock
